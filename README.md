@@ -8,7 +8,7 @@ I became interested in programming in 2021. Since then I started learning langua
 
 * 🌍  I'm based in Russia, Kazan
 * ✉️  You can contact me at [dmitrijpetrovich6@gmail.com](mailto:dmitrijpetrovich6@gmail.com)
-* 🧠  I'm learning TypeScript and SCSS
+* 🧠  I'm learning TypeScript and React
 
 ### Skills
 

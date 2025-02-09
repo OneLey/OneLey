@@ -34,7 +34,7 @@ I became interested in programming in 2021. Since then I started learning langua
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/oneley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/OneLey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://boosty.to/oneley" target="_blank"><img src="https://raw.githubusercontent.com/OneLey/OneLey/4b0275053eec9aba4644ce5c1da9bbd18f9c05b8/Boosty.svg" width='36' height="36" alt="boosty"</a><a href="https://vk.com/oneley" target="_blank"><img src="https://raw.githubusercontent.com/OneLey/OneLey/480154ce53c0947054d688e85ad3ec3d46ef0814/VK.svg" width='36' height="36" alt="boosty"</a></p>
+<p align="left"> <a href="https://discord.com/users/oneley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/OneLey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://vk.com/oneley" target="_blank"><img src="https://raw.githubusercontent.com/OneLey/OneLey/480154ce53c0947054d688e85ad3ec3d46ef0814/VK.svg" width='36' height="36" alt="boosty"</a></p>
 
 ### Badges
 

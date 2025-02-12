@@ -7,7 +7,7 @@ Beginning front-end developer
 I became interested in programming in 2021. Since then I started learning languages like Python, C++, creating 3D models in Blender. I didn't really like it and so I decided to try Front-end development. Studied the basics of HTML, CSS and JS. And that got me interested. Nothing has changed since then. Now I continue to develop in this direction
 
 * 🌍  I'm based in Russia, Kazan
-* ✉️  You can contact me at [dmitrijpetrovich6@gmail.com](mailto:dmitrijpetrovich6@gmail.com)
+* ✉️  You can contact me at <a href="https://t.me/oneley" target="_blank" rel="noreferrer">Telegram</a>
 * 🧠  I'm learning TypeScript and React
 
 ### Skills
